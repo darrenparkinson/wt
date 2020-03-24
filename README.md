@@ -6,6 +6,14 @@
 
 >This code accompanies the "[Downloading Webex Recordings with Go](http://darrenparkinson.uk/posts/2019-05-04-downloading-webex-recordings-with-go/)" blog post.  
 
+## Installation
+
+To get the latest version of this tool:
+
+```
+go get github.com/darrenparkinson/wt
+```
+
 ## Command Help
 
 To get help with a command, you can just type `wt help` or `wt help list` or `wt help download` which will then provide you with a list of available parameters etc.
