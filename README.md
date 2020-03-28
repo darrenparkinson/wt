@@ -1,5 +1,7 @@
 # WT - Webex Tool
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/darrenparkinson/wt)](https://goreportcard.com/report/github.com/darrenparkinson/wt)
+
 > Note: This tool has been uploaded on request.  It is some of my early Go code so please don't judge me 😬😉.  
 
 >It was intended as a management utility for our webex tenant, but we have since switched over to a new SSO based tenant where this no longer works.  You can use the DevNet sandbox for testing however.  
